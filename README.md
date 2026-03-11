@@ -1,7 +1,7 @@
 # AWS-reStart-Portfolio
-AWS Cloud Practitioner Certification
+<b> AWS Cloud Practitioner Certification </b>
 
-My Restart Graduate Journey
+My Restart Graduate Journey </b>
 
 The Restart program is designed to take you from a beginner in tech to a confident,
 job-ready professional. During the program, I learned:
