@@ -8,7 +8,6 @@ You can start, stop, or resize servers whenever you need them, making it easy to
 </p>
 
 <h3>Topics Covered</h3>
-<p>In this lab, you will learn how to:</p>
 
 <ul>
   <li>Launch an EC2 instance with <strong>termination protection</strong> enabled</li>
